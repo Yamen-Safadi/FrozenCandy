@@ -1,0 +1,77 @@
+F:\computer\c#\FrozenCandy\FrozenCandy\bin\Debug\FrozenCandy.exe
+F:\computer\c#\FrozenCandy\FrozenCandy\bin\Debug\FrozenCandy.pdb
+F:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csprojResolveAssemblyReference.cache
+F:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Form1.resources
+F:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Properties.Resources.resources
+F:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Resource1.resources
+F:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csproj.GenerateResource.Cache
+F:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.exe
+F:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.pdb
+C:\Users\pc\Desktop\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.exe
+C:\Users\pc\Desktop\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.pdb
+C:\Users\pc\Desktop\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Form1.resources
+C:\Users\pc\Desktop\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Properties.Resources.resources
+C:\Users\pc\Desktop\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Resource1.resources
+C:\Users\pc\Desktop\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\FrozenCandy\FrozenCandy\bin\Debug\FrozenCandy.exe
+C:\Users\pc\Desktop\FrozenCandy\FrozenCandy\bin\Debug\FrozenCandy.pdb
+C:\Users\User\Desktop\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.exe
+C:\Users\User\Desktop\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.pdb
+C:\Users\User\Desktop\FrozenCandy\FrozenCandy\bin\Debug\FrozenCandy.exe
+C:\Users\User\Desktop\FrozenCandy\FrozenCandy\bin\Debug\FrozenCandy.pdb
+C:\Users\User\Desktop\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Form1.resources
+C:\Users\User\Desktop\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Properties.Resources.resources
+C:\Users\User\Desktop\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Resource1.resources
+C:\Users\User\Desktop\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Name.resources
+C:\Users\User\Desktop\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Name.resources
+E:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.exe
+E:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.pdb
+C:\Users\pc\Desktop\usb y\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.exe
+C:\Users\pc\Desktop\usb y\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.pdb
+G:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.exe
+G:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.pdb
+G:\computer\c#\FrozenCandy\FrozenCandy\bin\Debug\FrozenCandy.exe
+G:\computer\c#\FrozenCandy\FrozenCandy\bin\Debug\FrozenCandy.pdb
+G:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csprojResolveAssemblyReference.cache
+G:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Form1.resources
+G:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Name.resources
+G:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Properties.Resources.resources
+G:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Resource1.resources
+G:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csproj.GenerateResource.Cache
+F:\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Name.resources
+D:\old pc\old pc\yamen\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.exe
+D:\old pc\old pc\yamen\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.pdb
+D:\old pc\old pc\yamen\computer\c#\FrozenCandy\FrozenCandy\bin\Debug\FrozenCandy.exe
+D:\old pc\old pc\yamen\computer\c#\FrozenCandy\FrozenCandy\bin\Debug\FrozenCandy.pdb
+D:\old pc\old pc\yamen\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Form1.resources
+D:\old pc\old pc\yamen\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Name.resources
+D:\old pc\old pc\yamen\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Properties.Resources.resources
+D:\old pc\old pc\yamen\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Resource1.resources
+D:\old pc\old pc\yamen\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csproj.GenerateResource.Cache
+D:\old pc\old pc\yamen\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csprojAssemblyReference.cache
+D:\old pc\old pc\yamen\computer\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csproj.CoreCompileInputs.cache
+D:\old pc\computer classes\c#\FrozenCandy\FrozenCandy\bin\Debug\FrozenCandy.exe
+D:\old pc\computer classes\c#\FrozenCandy\FrozenCandy\bin\Debug\FrozenCandy.pdb
+D:\old pc\computer classes\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csprojAssemblyReference.cache
+D:\old pc\computer classes\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Form1.resources
+D:\old pc\computer classes\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Name.resources
+D:\old pc\computer classes\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Properties.Resources.resources
+D:\old pc\computer classes\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Resource1.resources
+D:\old pc\computer classes\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csproj.GenerateResource.cache
+D:\old pc\computer classes\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csproj.CoreCompileInputs.cache
+D:\old pc\computer classes\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.exe
+D:\old pc\computer classes\c#\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.pdb
+D:\old pc\computer classes\FrozenCandy\FrozenCandy\bin\Debug\FrozenCandy.exe
+D:\old pc\computer classes\FrozenCandy\FrozenCandy\bin\Debug\FrozenCandy.pdb
+D:\old pc\computer classes\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csprojAssemblyReference.cache
+D:\old pc\computer classes\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Form1.resources
+D:\old pc\computer classes\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Name.resources
+D:\old pc\computer classes\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Properties.Resources.resources
+D:\old pc\computer classes\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.Resource1.resources
+D:\old pc\computer classes\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csproj.GenerateResource.cache
+D:\old pc\computer classes\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.csproj.CoreCompileInputs.cache
+D:\old pc\computer classes\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.exe
+D:\old pc\computer classes\FrozenCandy\FrozenCandy\obj\x86\Debug\FrozenCandy.pdb
